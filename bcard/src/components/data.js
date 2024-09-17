@@ -1,4 +1,4 @@
-export default {
+export default [{
     id: 1,
     name: "Abhay Singh",
     numb: "310-467-6794",
@@ -10,9 +10,9 @@ export default {
             I earned a Associates in Mathematics. Computer Science is a passion
             of mine because it requires me to constantly learn and adapt to create
             new and effective solutions to problems.`,
-    Interests: `Outside of coding, I love to play games, workout, try new foods, 
+    Interests: `Outside of coding; I love to play games, workout, try new foods, 
                 and pick up new skills. I love to play basketball, football, golf,
                 table tennis, and tennis. I enjoy meeting new people and finding
                 new hobbies`
 
-}
+}]
