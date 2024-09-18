@@ -1,6 +1,8 @@
 import React from "react"
 import Body from "./components/Body"
 import data from "./components/data"
+import Footer from "./components/Footer"
+
 
 export default function App() {
     const bCard = data.map(item => {
@@ -15,6 +17,7 @@ export default function App() {
         <div>
         <section>
             {bCard}
+            <Footer />
 
         </section>
         </div>
